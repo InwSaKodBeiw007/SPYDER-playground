@@ -1,2 +1,2 @@
-# SPYDER-playground
-learningPYTHON
+# SPYDER for syntax learning .py
+just learning PYTHON.
